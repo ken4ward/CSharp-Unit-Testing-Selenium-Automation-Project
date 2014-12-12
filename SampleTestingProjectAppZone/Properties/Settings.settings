@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SampleTestingProjectAppZone.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="URL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://professional.demo.orangehrmlive.com</Value>
+    </Setting>
+    <Setting Name="LoginUsernameTextbox" Type="System.String" Scope="User">
+      <Value Profile="(Default)">txtUsername</Value>
+    </Setting>
+    <Setting Name="LoginPasswordTextbox" Type="System.String" Scope="User">
+      <Value Profile="(Default)">txtPassword</Value>
+    </Setting>
+    <Setting Name="LoginButton" Type="System.String" Scope="User">
+      <Value Profile="(Default)">btnLogin</Value>
+    </Setting>
+    <Setting Name="AdminMenu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">menu_admin_viewAdminModule</Value>
+    </Setting>
+    <Setting Name="QualificationMenu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">menu_admin_Qualifications</Value>
+    </Setting>
+    <Setting Name="SkillsMenu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">menu_admin_viewSkills</Value>
+    </Setting>
+    <Setting Name="BtnAddSkill" Type="System.String" Scope="User">
+      <Value Profile="(Default)">btnAdd</Value>
+    </Setting>
+    <Setting Name="SkillTitle" Type="System.String" Scope="User">
+      <Value Profile="(Default)">skill_name</Value>
+    </Setting>
+    <Setting Name="SkillDescription" Type="System.String" Scope="User">
+      <Value Profile="(Default)">skill_description</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
